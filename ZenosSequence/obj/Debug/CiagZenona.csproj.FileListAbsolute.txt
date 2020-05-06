@@ -1,0 +1,10 @@
+C:\Users\MP\source\repos\CiagZenona\CiagZenona\bin\Debug\CiagZenona.exe.config
+C:\Users\MP\source\repos\CiagZenona\CiagZenona\bin\Debug\CiagZenona.exe
+C:\Users\MP\source\repos\CiagZenona\CiagZenona\bin\Debug\CiagZenona.pdb
+C:\Users\MP\source\repos\CiagZenona\CiagZenona\obj\Debug\CiagZenona.csprojAssemblyReference.cache
+C:\Users\MP\source\repos\CiagZenona\CiagZenona\obj\Debug\CiagZenona.csproj.CoreCompileInputs.cache
+C:\Users\MP\source\repos\CiagZenona\CiagZenona\obj\Debug\CiagZenona.exe
+C:\Users\MP\source\repos\CiagZenona\CiagZenona\obj\Debug\CiagZenona.pdb
+C:\Users\MP\source\repos\CiagZenona\CiagZenona\bin\Debug\ConsoleTables.dll
+C:\Users\MP\source\repos\CiagZenona\CiagZenona\bin\Debug\ConsoleTables.pdb
+C:\Users\MP\source\repos\CiagZenona\CiagZenona\obj\Debug\CiagZenona.csproj.CopyComplete
