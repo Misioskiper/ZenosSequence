@@ -1,0 +1,7 @@
+C:\Users\MP\source\repos\CiagZenonaTabela\CiagZenonaTabela\bin\Debug\CiagZenonaTabela.exe.config
+C:\Users\MP\source\repos\CiagZenonaTabela\CiagZenonaTabela\bin\Debug\CiagZenonaTabela.exe
+C:\Users\MP\source\repos\CiagZenonaTabela\CiagZenonaTabela\bin\Debug\CiagZenonaTabela.pdb
+C:\Users\MP\source\repos\CiagZenonaTabela\CiagZenonaTabela\obj\Debug\CiagZenonaTabela.csprojAssemblyReference.cache
+C:\Users\MP\source\repos\CiagZenonaTabela\CiagZenonaTabela\obj\Debug\CiagZenonaTabela.csproj.CoreCompileInputs.cache
+C:\Users\MP\source\repos\CiagZenonaTabela\CiagZenonaTabela\obj\Debug\CiagZenonaTabela.exe
+C:\Users\MP\source\repos\CiagZenonaTabela\CiagZenonaTabela\obj\Debug\CiagZenonaTabela.pdb

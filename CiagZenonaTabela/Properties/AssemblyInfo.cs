@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CiagZenona")]
+[assembly: AssemblyTitle("CiagZenonaTabela")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CiagZenona")]
+[assembly: AssemblyProduct("CiagZenonaTabela")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("714e77d9-8e32-4510-a67e-598c1c1a3e68")]
+[assembly: Guid("44f3b7d4-3e3d-443b-8d4b-217cb74f4d7b")]
 
 // Version information for an assembly consists of the following four values:
 //
